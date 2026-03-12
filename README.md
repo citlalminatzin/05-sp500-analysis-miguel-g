@@ -2,7 +2,6 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23103971)
 # Pon aquí el título de tu práctica o no, no soy tu papá
 
-(Si no eliminas esta línea lloro) Este es un archivo de ejemplo donde debes de colocar la respuesta a tus ejercicios, piénsalo como tu reporte de práctica. Aquí puedes introducir el problema y definir los términos que consideres apropiados de forma concisa.
 
 ## Integrantes
 
