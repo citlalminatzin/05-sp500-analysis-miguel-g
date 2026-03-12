@@ -5,11 +5,7 @@
 
 ## Integrantes
 
-(Si no eliminas esta línea lloro) Escribe tus integrantes iniciando por apellido de forma alfabética
-
-- (Si no modificas esta línea lloro) Babilonia, Aureliano
-- (Si no modificas esta línea lloro) Buendía, Aureliano
-- (Si no modificas esta línea lloro) Segundo, Aureliano
+- Miguel Ángel Galeana Morán
 
 
 ## Uso e instalación
